@@ -7,28 +7,27 @@ The data is intended **strictly for academic and research purposes**. We have bo
 ## Folder Structure
 
 ```
-NSE_OHLCV_data/
-  P1/
-    <SYMBOL_1>/
-      <SYMBOL_1>_daily.csv
-      <SYMBOL_1>_hourly.csv
-    <SYMBOL_2>/
-      <SYMBOL_2>_daily.csv
-      <SYMBOL_2>_hourly.csv
-    ...
-  P2/
-    <SYMBOL_3>/
-      <SYMBOL_3>_daily.csv
-      <SYMBOL_3>_hourly.csv
-    <SYMBOL_4>/
-      <SYMBOL_4>_daily.csv
-      <SYMBOL_4>_hourly.csv
-    ...
-  P3/
-    <SYMBOL_5>/
-      <SYMBOL_5>_daily.csv
-      <SYMBOL_5>_hourly.csv
-    ...
+P1/
+  <SYMBOL_1>/
+    <SYMBOL_1>_daily.csv
+    <SYMBOL_1>_hourly.csv
+  <SYMBOL_2>/
+    <SYMBOL_2>_daily.csv
+    <SYMBOL_2>_hourly.csv
+  ...
+P2/
+  <SYMBOL_3>/
+    <SYMBOL_3>_daily.csv
+    <SYMBOL_3>_hourly.csv
+  <SYMBOL_4>/
+    <SYMBOL_4>_daily.csv
+    <SYMBOL_4>_hourly.csv
+  ...
+P3/
+  <SYMBOL_5>/
+    <SYMBOL_5>_daily.csv
+    <SYMBOL_5>_hourly.csv
+  ...
 ```
 
 ## Data Organization
